@@ -1,0 +1,15 @@
+h2{
+    color:rgb(28, 181, 130);
+}
+p{
+    color:rgb(10, 49, 96)
+}
+.do{
+    border:2px solid black;
+    margin:auto;
+    width:fit-content;
+    padding:30px;
+    background-color: rgb(152, 192, 253);
+
+
+}
